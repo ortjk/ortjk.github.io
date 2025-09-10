@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "jekyll-remote-theme"
+gem "jekyll-paginate"
 gem "minima", "~> 2.5"
 
 gem "github-pages", group: :jekyll_plugins
