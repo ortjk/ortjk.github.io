@@ -1,7 +1,12 @@
-title: Your awesome title
+title: Thomas Porter
+author:
+  name: Thomas Porter
 remote_theme: chesterhow/tale
 permalink: /:year-:month-:day/:title
 paginate: 5
+markdown: kramdown
+include:
+  - _pages
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
